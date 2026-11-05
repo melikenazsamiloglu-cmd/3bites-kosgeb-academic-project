@@ -10,7 +10,7 @@
 
 Bu depo, **üniversite dersi kapsamında birlikte hazırlanan iş planı raporunu ve hesap tablolarını** içerir. Belgelerdeki işletme, fiyat, satış, maliyet ve ortaklık bilgileri ders bağlamındaki plan ve varsayımlardır; gerçekleşmiş ticari veri olarak değerlendirilmemelidir.
 
-## Proje ekibi
+# Proje ekibi
 
 | Katılımcı | GitHub | Katkı |
 |---|---|---|
