@@ -22,13 +22,12 @@ Bu depo, **üniversite dersi kapsamında birlikte hazırlanan iş planı raporun
 ## Belgeler
 
 - [`docs/3BITE-KOSGEB-Akademik-Rapor-Kisisel-Veriler-Gizlenmis.pdf`](docs/3BITE-KOSGEB-Akademik-Rapor-Kisisel-Veriler-Gizlenmis.pdf) — **33 sayfalık raporun tamamı**; yalnızca kişisel veriler görünmez hâle getirilmiştir. Başlıklar, bölümler, tablolar ve akademik iş planı içeriği korunmuştur.
-- [`docs/3BITE-KOSGEB-Finansal-Tablolar.docx`](docs/3BITE-KOSGEB-Finansal-Tablolar.docx) — **orijinal finansal tablo belgesi**, görünür içerik korunarak metadata temizlenmiştir.
 - [`docs/3BITE-KOSGEB-Finansal-Tablolar.pdf`](docs/3BITE-KOSGEB-Finansal-Tablolar.pdf) — Finansal tablo belgesinin GitHub'da kolay görüntülenebilir PDF sürümü.
-- [`KATKILAR.md`](KATKILAR.md) — Ortak çalışma ve sürüm açıklamaları.
+
 
 ## Web sitesi: Ayrı bireysel çalışma
 
-3 BITE konseptine ilişkin **V2 web sitesinin tüm arayüz tasarımı ve kaynak kodları Melike Naz Şamiloğlu'na aittir.** Web sitesi bu raporla ortak geliştirilen bir yazılım olarak sunulmaz:
+3 BITE konseptine ilişkin **V2 web sitesinin tüm arayüz tasarımı ve kaynak kodları Melike Naz Şamiloğlu'na aittir.**
 
 - [3BİTES Web Sitesi V2 — Melike Naz Şamiloğlu](https://github.com/melikenazsamiloglu-cmd/3bites-website-v2)
 
